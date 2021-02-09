@@ -41,7 +41,7 @@ Instructions for running the Python project:
 ![alt text](./screenshots/makeAll_1.png)
 
 
-![alt text](./screenshots/makeAll_2.png)
+![alt text](./screenshots/makeAll _2.png)
 
 
 * Output of a test run
