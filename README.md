@@ -1,12 +1,12 @@
 # Overview
 
-<TODO: complete this with an overview of your project>
+
 This is a demo project for udacity nano-degree program , here we will implement the devops princile of CI and CD using the Azure DevOps , dev.azure.com .
 The objective is to build a python app which will use flask ML to predict the rates of housing properties. The flask part will be used as boiler plate code and main focus will be on how to deploy this flask app ML prediciton as an azure webapp using the CI CD pipeline using azure devops.
 
 
 ## Project Plan
-<TODO: Project Plan
+
 
 * A link to a Trello board for the project
 * A link to a spreadsheet that includes the original and final project plan>
